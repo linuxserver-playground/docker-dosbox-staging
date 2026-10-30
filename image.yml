@@ -10,6 +10,8 @@ upstream:
   version:
     type: github_release
     repo: dosbox-staging/dosbox-staging
+    require_assets:
+      - asset: '^dosbox\-staging\-linux\-x86_64\-.*\.tar\.xz$'
   notes:
     type: github_release
     repo: dosbox-staging/dosbox-staging
