@@ -1,0 +1,2 @@
+DOSBox Staging (GitHub Sponsors): https://github.com/sponsors/dosbox-staging
+DOSBox Staging (Open Collective): https://opencollective.com/dosbox-staging
