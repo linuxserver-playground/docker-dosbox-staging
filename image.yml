@@ -15,6 +15,11 @@ upstream:
   notes:
     type: github_release
     repo: dosbox-staging/dosbox-staging
+  sponsor:
+  - name: DOSBox Staging (GitHub Sponsors)
+    url: https://github.com/sponsors/dosbox-staging
+  - name: DOSBox Staging (Open Collective)
+    url: https://opencollective.com/dosbox-staging
 
 release:
   branch: master
